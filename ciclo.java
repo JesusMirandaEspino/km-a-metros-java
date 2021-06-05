@@ -7,7 +7,7 @@ public class ciclo{
         Integer numero;
 
         for( numero = 0; numero <= 100; numero = numero + 5 ){
-            System.out.println(   numero + "\n" );
+            System.out.println(   numero + " " );
         }
 
     }
